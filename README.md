@@ -8,4 +8,4 @@ The full code is coming soon.
 
 [Synthetic dataset - preprocessed](https://drive.google.com/drive/folders/1ASD7syGzjv7k37CprH74xKvJ8dzwwDqS?usp=sharing)
 
-[Mean Images - AD/NC](https://drive.google.com/file/d/1EgBJOVEnclps_4Uzc5mhruP52n5AUovN/view?usp=sharing)
+[Mean Images (AD/NC) - Necessary for plotting](https://drive.google.com/file/d/1EgBJOVEnclps_4Uzc5mhruP52n5AUovN/view?usp=sharing)
